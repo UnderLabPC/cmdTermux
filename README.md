@@ -1,3 +1,4 @@
-## Tmux-CLine
-Baris perintah (command-line) dasar dalam penggunaan terminal termux,
-silahkan simak [https://github.com/KF-NW/Tmux-CLine/blob/main/cmd-tmux]
+## cmdTermux
+Baris perintah (command-line) dasar dalam penggunaan terminal termux.
+
+Silahkan simak dan pelajari [https://github.com/UnderLabPC/cmdTermux/blob/main/cmd-tmux]
