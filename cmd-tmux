@@ -1,0 +1,23 @@
+login	: Memulai ulang terminal tanpa menutup terminal
+clear	: Membersihkan tampilan layar terminal
+  &&	: Melanjutkan perintah berikutnya dalam terminal
+  ||	: Alternatif dalam baris perintah terminal
+  ps	: Menampilkan informasi tentang proses yang sedang aktif
+  df	: Menampilkan penggunaan ruang disk
+  du	: Menampilkan penggunaan disk untuk berkas/file dan direktori
+ top	: Menampilkan proses sistem dan penggunaan sumberdaya
+ pwd	: Menampilkan direktori saat ini
+  rm	: Menghapus berkas/file atau direktori
+  cp	: Menyalin berkas/file atau direktori
+  mv	: Memindahkan atau mengganti nama berkas/file atau direktori
+  ls	: Mencantumkan berkas/file dan direktori pada direktori saat ini
+  cd	: Berubah/pindah ke direkori lain
+chmod	: Mengubah ijin akses pada berkas/file atau direktori
+mkdir	: Membuat direktori baru
+touch	: Membuat berkas/file kosong
+grep	: Mencari text dalam berkas/file
+find	: Menemukan berkas/file dan direktori berdasarkan suatu pola
+ cat	: Menampilkan isi berkas/file
+nano/vim: Membuka editor text untuk membuat atau mengedit berkas/file
+wget	: Mengunduh berkas dari internet
+apt/pkg	: Mengelola paket (install, perbaharui, hapus)
